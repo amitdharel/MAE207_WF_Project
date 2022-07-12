@@ -1,2 +1,2 @@
-# MAE207_WF_Project
-MAE 207: Renewable Integration Term Project: Wildfire
+# WF_Project
+Wildfire Mitigation via Public Safety Power Shut-Offs
